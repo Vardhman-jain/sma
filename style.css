@@ -1,0 +1,155 @@
+.paralax{
+ background-image:url(https://stmarysmeerut.com/templates/g5_helium/custom/images/headers/SMA%20Building.jpg);
+height:600px;
+width:100%;
+}
+body{
+font-family:helvetica;
+font-weight:100;
+}
+.p{
+font-weight:50;
+font-size:30px;
+padding-left: 200px;
+}
+.h{
+font-size:60px;
+text-align:center;
+font-weight:25;
+}
+.us{
+font-size:45px;
+color:#4ba3c3;
+text-align: center;
+}
+.img{
+height: 250px;
+width: 250px;
+padding-left:100px;
+}
+.about{
+display:flex;
+}
+.card{
+width: 345px;
+height: 545px;
+background-color:#f3c76e;
+transition: 0.3s ease;
+margin-left: 10px;
+margin-right: 10px;
+border-radius:20px;
+font-size: 25px;
+text-align: center;
+margin: 0 60px;
+}
+.card_ul{
+    text-decoration: none;
+    list-style-type: none;
+    text-align: left;
+    color:#6a040f;
+}
+.master{
+display: flex;
+align-items: center;
+}
+
+.card_p{
+text-align:left;
+color:#6a040f;
+padding-left:3px;
+}
+.card_heading{
+color:#6a040f;
+}
+.card_line{
+background-color: #d48600;
+height:1px;
+width:120px;
+}
+.nav{
+display:flex;
+
+}
+.menu{
+float:right;
+position: absolute;
+text-decoration:none;
+list-style-type:none;
+right:0;
+transform: translateY(-50px);
+}
+.men{
+float:right;
+text-decoration:none;
+margin:0 20px;
+}
+.a{
+float:right;
+text-decoration:none;
+color: black;
+font-weight: 20;
+font-size: 25px;
+}
+.a:hover{
+color: grey;
+}
+.card:hover, .card2:hover{
+transform: scale(1.1);
+box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
+}
+#cardcontact{
+width: 410px;
+height: 545px;
+text-align: center;
+}
+.card_heading{
+text-align:center;
+}
+
+.cards2, .master, .cards{
+display:flex;
+align-items:center;
+}
+.card2{
+height:600px;
+width:400px;
+border-radius:20px;
+margin-left:10px;
+margin-right:10px;
+background-color:#e5c688;
+transition: 0.3s ease;
+}
+
+.bro1{
+width:348px;
+height:344;
+border-radius: 20px;
+margin-left: 5px;
+}
+.logo{
+height:50px;
+}
+#contact{
+align-items: center;
+}
+.cards{
+margin: 0 20px;
+width: 300px !important;
+}
+#contact{
+    align-items:center;
+    margin:0;
+    float: center;
+    margin: 0 490px;
+}
+#vision{
+    width: 55%;
+    color: #6a040f;
+    margin: 0 400px;
+}
+.dif{
+    color:green;
+}
+h2{
+    font-weight:lighter;
+}
